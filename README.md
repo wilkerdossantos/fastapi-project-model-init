@@ -1,6 +1,7 @@
 # FastAPI Starter Template
 
-This repository serves as a template for starting a new project using FastAPI. FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.
+This repository serves as a template for starting a new project using FastAPI. I created it with the aim of making life easier for those who are starting out and need to start somewhere, suggestions and criticisms are welcome.
+FastAPI is a modern and fast (high-performance) web framework for building APIs with Python 3.7+ based on standard Python type hints.
 
 ## Getting Started
 
