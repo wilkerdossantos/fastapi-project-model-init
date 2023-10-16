@@ -53,9 +53,6 @@ Before you begin, make sure you have the following requirements:
 
 For detailed information on FastAPI and its features, refer to the [official documentation](https://fastapi.tiangolo.com/). It provides comprehensive guides, tutorials, and reference material.
 
-## Contributing
-
-If you'd like to contribute to this project, please follow the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
